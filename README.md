@@ -1,5 +1,7 @@
 # IoT Studio Training
-//![gopher](/docs/img/ThingWorx.png)
+!
+[gopher]
+(/docs/img/ThingWorx.png)
 
 
 Manufacturing Apps: (Edición de Trial de las apps de Manufactura)
